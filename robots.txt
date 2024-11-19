@@ -1,0 +1,3 @@
+user-agent: *
+Disallow:
+Sitemap: https://K4LU7.github.io/projekatVK/sitemap.xml
