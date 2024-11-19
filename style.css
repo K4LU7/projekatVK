@@ -391,7 +391,10 @@ to {
     .main .main-div .tekst {
       width: 90%;
     }
-  
+  .main .main-div .naslov h1{
+      top:10;
+      width:90%;
+  }
     .kontakt-main .form-div {
       width: 80%;
     }
